@@ -12,8 +12,8 @@ Validation: Results are validated against published literature for an Earth-Mars
 Future Work: Discusses potential improvements, such as including perturbations (e.g., Jupiter's gravity) and non-ideal solar sail properties.
 
 ## Authors
-Raman Singh
-Robert Cazeau
+Raman Singh,
+Robert Cazeau,
 Sanjana Srivastava
 
 ## Acknowledgments
