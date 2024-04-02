@@ -1,1 +1,1 @@
-LQR based docking procedure
+This directory details a final course project for the course AE 504 Optimal Aerospace Systems taught by Dr. Negar Mehr in the Spring semester of 2021. This project was formulated, coded, and executed in a team of three involving myself, Derald Madson (dmasdon@illinois.edu), and Andrew Pelster (pelster2@illinois.edu). The file "Spacecraft_Optimal_Docking_Procedure_Report" is the official report as submitted for this project. 
