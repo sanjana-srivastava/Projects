@@ -19,8 +19,8 @@ Constraints and Safety: Incorporates constraints and safety measures, such as ve
 Comparative Analysis: Compares the performance of the LQR controller with other methods, such as sliding mode control, for spacecraft docking.
 
 ## Authors
-Derald Madson III
-Andrew Pelster
+Derald Madson III,
+Andrew Pelster,
 Sanjana Srivastava
 
 ## Acknowledgments
