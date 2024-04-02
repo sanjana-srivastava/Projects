@@ -1,1 +1,0 @@
-LQR based docking procedure
