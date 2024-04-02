@@ -24,4 +24,4 @@ Multidisciplinary design optimization
 Each project has its own dedicated directory within the repository. Inside each project directory, you will find the relevant code files, documentation, and any additional resources related to the project.
 
 ## Contact Information
-For any questions or inquiries regarding the projects or the repository, please contact Sanjana Srivastava at ss53@illinois.edu.
+For any questions or inquiries regarding the projects or the repository, please contact me at ss53@illinois.edu.
